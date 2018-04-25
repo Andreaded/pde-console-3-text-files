@@ -1,5 +1,7 @@
 # processing-console-assignment-3-text-files
 
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 In this assignment you will be creating a virtual restaurant where your program plays the role of a subservient and accomodating waiter. 
 
 ## Part 1
